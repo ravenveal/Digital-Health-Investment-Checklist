@@ -1,3 +1,16 @@
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
+  [ ] The code works
+  [ ] The code is easy to understand
+  [ ] Follows coding conventions
+  [ ] Names are simple and if possible short
+  [ ] Names are spelt correctly
+  [ ] Names contain units where applicable
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ravenveal/dei-investment-checklist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
